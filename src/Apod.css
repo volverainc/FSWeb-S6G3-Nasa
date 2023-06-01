@@ -11,5 +11,14 @@
 }
 
 .date-info {
-    font-size: 90%
+    font-size: 90%;
+    color: whitesmoke;
+}
+
+input {
+        font-size: 1.4em!important;
+        padding: 0px 10px;
+        border-radius: 10px;
+        margin-bottom: 10px!important;
+        text-align: center;
 }
